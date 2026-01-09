@@ -1,6 +1,6 @@
 # User List App
 
-## [Live @]()
+## [Live @](https://react-user-list-app-proj-02.vercel.app/)
 
 ## 📋 Overview
 <p>A modern User List Application built with React and styled using Tailwind CSS.
@@ -64,7 +64,7 @@ src/
 
 #### 1.Clone the repository
 ```
-git clone https://github.com/your-username/user-list-app.git
+git clone https://github.com/Aromalpriyan/React-User-List-App-Proj-02
 ```
 #### 2.Navigate to the project directory
 ```
